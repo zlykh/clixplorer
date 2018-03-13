@@ -1,7 +1,7 @@
 # clixplorer
 Clixplorer - cli file explorer written in C   \\(^-^)/
 
-Built with cygwin.  
+Type folder name to drill down or single dot to go up. Built with cygwin.  
 
 )>'.')>: /cygdrive/c/  
 &nbsp;&nbsp;&nbsp;&nbsp;[+] $Recycle.Bin  
